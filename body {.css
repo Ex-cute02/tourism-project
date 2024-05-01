@@ -1,0 +1,42 @@
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+body {
+    font-family: "lato", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 400;
+}
+body {
+    color: #9091a2;
+    background: #090a1e;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+body {
+    margin: 0;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    height: 100%;
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
